@@ -1,1 +1,0 @@
-# Quartz-Photonic-Energy-System-
