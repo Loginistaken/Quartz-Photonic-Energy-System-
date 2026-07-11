@@ -1125,3 +1125,23 @@ In that configuration, the QPHES panels primarily act as an energy management sy
 recovering heat, reducing rooftop temperatures, and supplying energy to the home's heating and cooling 
 equipment—rather than directly air-conditioning the house on their own. This integrated approach is 
 technically more realistic than expecting the rooftop thermal loop alone to provide all of the cooling.
+Using the QPHES dimensions from the previous design:
+
+House size: 2,000 sq ft
+Solar/thermal roof collector: ~10 panels, each 4 ft × 8 ft (~320 sq ft total)
+Thermal storage tank: ~1,000 gallons
+Tank size: approximately 5–6 ft diameter × 8–9 ft tall
+Insulation: high-performance insulation (aerogel/mineral wool style)
+Starting summer storage temperature: about 180°F water
+
+A realistic estimate for the 1,000-gallon QPHES thermal storage tank:
+
+Time stored	Estimated water temperature
+Start	180°F
+After 24 hours	~170–175°F
+After 3 days (72 hours)	~150–165°F
+After 7 days	~130–155°F
+
+The reason the temperature remains high is the large thermal mass: 1,000 gallons of water stores about 833,000 BTU for every 100°F of temperature difference. The quartz thermal layers and insulation reduce heat loss, allowing the stored heat to remain usable for space heating and hot water.
+
+For winter operation, this stored summer heat could be released through a heat exchanger or radiant heating loop. For summer cooling, the same thermal mass could also be used in reverse by storing nighttime cool temperatures and circulating cooler water through a heat exchanger.
