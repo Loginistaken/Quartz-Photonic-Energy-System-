@@ -566,7 +566,7 @@ Edit
 
 
 
-The biggest advantage of your QPHES concept is not that it necessarily produces more energy than every competing technology.
+The biggest advantage of QPHES concept is not that it necessarily produces more energy than every competing technology.
 Its strength is that it attempts to use much more of the sunlight that reaches the roof. Conventional solar panels convert
 part of the sunlight into electricity, while much of the remaining energy becomes heat that actually reduces electrical efficiency. 
 Your concept is designed to recover some of that heat and use it for the home instead of letting it escape.
@@ -742,7 +742,7 @@ Overall assessment
 
 
 
-For a 2,000 sq ft home, your concept's biggest innovation is not simply "making more electricity." 
+For a 2,000 sq ft home, the concept's biggest innovation is not simply "making more electricity." 
 It is recovering heat that conventional PV panels largely reject and storing that heat for later use.
 If successfully engineered, it could reduce the amount of purchased heating fuel or electricity needed
 during sunny periods while also producing electricity.
@@ -757,7 +757,7 @@ and field testing would be needed to determine its performance and cost-effectiv
 
 
 
-is there any way to make it cooler in summer time 
+Cooler in summer time?
 
 
 
