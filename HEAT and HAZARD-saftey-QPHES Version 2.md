@@ -1,4 +1,4 @@
-QPHES Version 2 – Master Concept Summary
+QPHES Version 2 – Concept Summary
 
 
 
