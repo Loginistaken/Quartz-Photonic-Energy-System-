@@ -81,3 +81,4 @@ It requires only modest additional hardware (thermal interfaces, valves, sensors
 thermal loop, 1,000-gallon tank, silicon self-cleaning surface, and multi-stage filtration—already designed into the system. The result is a true year-round
 hybrid platform that converts both sunlight and precipitation (rain or snow) into usable electricity, heat, and potable water.
 
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT 5)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
