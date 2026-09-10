@@ -1146,4 +1146,4 @@ The reason the temperature remains high is the large thermal mass: 1,000 gallons
 
 For winter operation, this stored summer heat could be released through a heat exchanger or radiant heating loop. For summer cooling, the same thermal mass could also be used in reverse by storing nighttime cool temperatures and circulating cooler water through a heat exchanger.
 
-Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT 5)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
+see legal page for more QPHES — CONCEPTUAL DEVELOPMENT.md
